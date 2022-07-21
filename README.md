@@ -69,23 +69,15 @@ A web app that a emergency worker can use to input new message and get the outpu
 
 ![Screenshot_message_classify](https://user-images.githubusercontent.com/107289536/178130096-23401184-f70a-4281-bbb1-8c77f1e269bc.PNG)
 
-![Screenshot_message_multi_classify](https://user-images.githubusercontent.com/107289536/178130094-6f172cbd-5143-44f9-9922-d67eecff312d.PNG)
-
-![Screenshot_message_deaths](https://user-images.githubusercontent.com/107289536/178130093-21b7095e-d948-4d22-b3e8-d9757eab87d5.PNG)
-
-
 
 #### MY IMages
 
-![Screenshot Question Class](https://052b8c06e71c40e99045311a7e35ff96-3001.udacity-student-workspaces.com/go?query=is+the+storm+over)
-    
-![Screenshot Overview Dataset](https://052b8c06e71c40e99045311a7e35ff96-3001.udacity-student-workspaces.com/)
+![Screenshot Question Class](https://github.com/ashwinibhatt85/Disaster_Response_Pipeline/blob/main/Images/Screenshot%20Question%20Class.png)
 
-Screenshot Question Class.png
+![Screenshot Question Class2](https://github.com/ashwinibhatt85/Disaster_Response_Pipeline/blob/main/Images/Screenshot%20Question%20Class2.png)
 
+![Screenshot Overview Dataset]
 
-
-Screenshot Question Class2.png
 Screenshot Overview Dataset.png
 newplot refugees.png
 newplot missing ppl.png
