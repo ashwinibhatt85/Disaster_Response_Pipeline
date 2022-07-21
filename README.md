@@ -67,21 +67,17 @@ A jupyter notebook `ML Pipeline Preparation` was used in preparation of the trai
 #### C. Flask Web App
 A web app that a emergency worker can use to input new message and get the output in several categories. The app also contains visualizations for easier understanding of underlying distributions of data
 
-![Screenshot_message_classify](https://user-images.githubusercontent.com/107289536/178130096-23401184-f70a-4281-bbb1-8c77f1e269bc.PNG)
-
-
-#### MY IMages
-
 ![Screenshot Question Class](https://github.com/ashwinibhatt85/Disaster_Response_Pipeline/blob/main/Images/Screenshot%20Question%20Class.png)
 
 ![Screenshot Question Class2](https://github.com/ashwinibhatt85/Disaster_Response_Pipeline/blob/main/Images/Screenshot%20Question%20Class2.png)
 
-![Screenshot Overview Dataset]
+![Screenshot Overview Dataset](https://github.com/ashwinibhatt85/Disaster_Response_Pipeline/blob/main/Images/Screenshot%20Overview%20Dataset.png)
 
-Screenshot Overview Dataset.png
-newplot refugees.png
-newplot missing ppl.png
-newplot death.png
+![newplot refugees.png](https://github.com/ashwinibhatt85/Disaster_Response_Pipeline/blob/main/Images/newplot%20refugees.png)
+
+![newplot missing ppl.png](https://github.com/ashwinibhatt85/Disaster_Response_Pipeline/blob/main/Images/newplot%20missing%20ppl.png)
+
+![newplot death.png](https://github.com/ashwinibhatt85/Disaster_Response_Pipeline/blob/main/Images/newplot%20death.png)
 
 
 
